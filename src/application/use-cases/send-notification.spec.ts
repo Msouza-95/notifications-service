@@ -11,7 +11,7 @@ describe('Send notification', ()=>{
         const sendNotification = new SendNotification(notificationRepository);
 
        const {notification } = await sendNotification.execute(
-            {content: 'this is a notification',
+            { content: 'this is a notification',
             category: 'social',
             recipientId : 'exemple-recipient-id' 
         })
