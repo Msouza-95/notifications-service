@@ -61,10 +61,10 @@ $ npm run test:cov
 ## Tecnologias
 As principais tecnologias utilizadas neste projeto são:
 
-Nest.js - Framework para construir aplicações Node.js escaláveis.
-TypeScript - Superset do JavaScript que adiciona tipagem estática.
-Jest - Framework de testes em JavaScript.
-Docker - Plataforma para desenvolvimento, envio e execução de aplicações em containers.
+- Nest.js:  Framework para construir aplicações Node.js escaláveis.
+- TypeScript: Superset do JavaScript que adiciona tipagem estática.
+- Jest: Framework de testes em JavaScript.
+- Docker: Plataforma para desenvolvimento, envio e execução de aplicações em containers.
 
 ## Support
 
