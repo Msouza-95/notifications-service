@@ -23,10 +23,9 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 
-
+## Notifications Service
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+O notifications-service é um serviço backend desenvolvido em TypeScript usando o framework Nest.js. Ele é projetado para gerenciar e enviar notificações em diversas formas.
 
 ## Installation
 
@@ -58,7 +57,14 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
-```
+``` 
+## Tecnologias
+As principais tecnologias utilizadas neste projeto são:
+
+Nest.js - Framework para construir aplicações Node.js escaláveis.
+TypeScript - Superset do JavaScript que adiciona tipagem estática.
+Jest - Framework de testes em JavaScript.
+Docker - Plataforma para desenvolvimento, envio e execução de aplicações em containers.
 
 ## Support
 
